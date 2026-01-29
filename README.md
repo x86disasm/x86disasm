@@ -15,10 +15,7 @@ Currently working with <b>Eliief</b>
 
 ## About
 
-I focus on low-level software, performance-oriented systems, and tooling that lives close to the hardware.  
-My interests span from reverse engineering and assembly-level analysis to higher-level tooling that bridges usability and power.
-
-I enjoy understanding how things *actually* work under the hood — then breaking and rebuilding them better.
+I work on low-level and performance-focused software, mostly building tools that sit close to the hardware. My interests go from reverse engineering and assembly analysis to higher-level tools that are powerful without being bloated
 
 ---
 
